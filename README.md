@@ -1,16 +1,15 @@
 # 6-Axis Robotic Arm
 
 ## 1. Introduction
-The main goal of this project was to create a 6-DoF robotic arm that is mostly* 3D printed.  
+The main goal of this project was to create a 6-DoF robotic arm that is "mostly" 3D printed.  
 \* "mostly" means that all custom parts are 3D printed, relying only on commonly available components like screws, timing belts, and ball bearings.
 
 This approach provides several key benefits:
 - **Modular construction**: 3D printing allows for easy design improvements and modular upgrades.
 - **Easy maintenance**: Repairs are fast and cheap, eliminating the need to order specific parts.
 - **Safety**: The lightweight design allows operators to work safely near the robot without the risk of serious injuries.
-- **Complete ownership**: The author has full control over the design and modifications.
 
-The arm's architecture is based on standard 6-DoF industrial manipulators to avoid reinventing the wheel. This makes it an ideal educational platform. It mimics the robots future engineers will encounter, but remains forgiving of operator mistakes.
+The arm's architecture is based on standard 6-DoF industrial manipulators. This makes it an ideal educational platform. It mimics the robots future engineers will encounter, but remains forgiving of operator mistakes.
 
 ---
 
